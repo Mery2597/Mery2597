@@ -4,17 +4,11 @@ Hello! I'm Mery, a passionate and driven professional with a strong focus on cyb
 🛠️ Technical Expertise
 Cybersecurity
 Proficient in identifying and mitigating vulnerabilities in systems and applications.
-Experience with penetration testing, ethical hacking, and security audits.
-Familiarity with tools like Nmap, Wireshark, Metasploit, and Burp Suite.
-Knowledge of secure coding practices and compliance standards (e.g., OWASP, GDPR).
-Web Development
 Skilled in building responsive and user-friendly websites using HTML, CSS, and JavaScript.
 Experience with modern frameworks and libraries like React, Vue.js, and Bootstrap.
-Proficient in backend development with Node.js, Express, and Django.
-Knowledge of database management using MySQL, MongoDB, and PostgreSQL.
+
 Programming
-Strong foundation in programming languages such as Python, Java, C++, and JavaScript.
-Experience with scripting, automation, and algorithm design.
+Strong foundation in programming languages such as C++, and HTML.
 Familiarity with version control systems like Git and collaborative platforms like GitHub.
 🚀 Projects
 Here are some of the projects I’ve worked on:
